@@ -15,3 +15,5 @@ Suggested files to include in the Gem's context:
 - [UKRI Funding Finder](https://www.ukri.org/opportunity/)
 - [Research Professional](https://www.researchprofessional.com/)
 - [Gateway to Research (GtR)](https://gtr.ukri.org/)
+- [Faculty Research Support](https://staff.sheffield.ac.uk/researchers/faculty-research-support) (staff intranet, login required)
+- [Funding Opportunities](https://staff.sheffield.ac.uk/researchers/funding-opportunities) (staff intranet, login required)

@@ -22,5 +22,6 @@ jobs:
           args: >-
             --verbose --no-progress
             --exclude 'gemini\.google\.com'
+            --exclude 'staff\.sheffield\.ac\.uk'
             '**/*.md'
           fail: true
