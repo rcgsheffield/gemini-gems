@@ -1,0 +1,7 @@
+default: true
+
+# Gem instructions/README files contain long prose lines by design.
+MD013: false
+
+# Allow inline HTML (used for things like GitHub alert callouts).
+MD033: false

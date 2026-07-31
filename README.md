@@ -1,6 +1,6 @@
 # Gemini Gems for Research
 
-A version-controlled repository of custom **Google Gemini Gems** designed for the entire research lifecycle including literature synthesis, paper editing, and data analysis. 
+A version-controlled repository of custom **Google Gemini Gems** designed for the entire research lifecycle including literature synthesis, paper editing, and data analysis.
 
 > [!WARNING]
 > This is a prototype experimental repository — **do not use** for research purposes.
