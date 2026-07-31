@@ -60,8 +60,10 @@ For institution-specific guidance, deadlines tracking, and application support, 
 Other sources of information:
 
 - [UKRI Funding Finder](https://www.ukri.org/opportunity/)
+- [UKRI Apply for funding](https://www.ukri.org/apply-for-funding/) guidance
 - [Gateway to Research (GtR)](https://gtr.ukri.org/) — past UKRI-funded projects, useful for precedent and competitor intelligence
 - [Research Professional](https://www.researchprofessional.com/)
+- [Navigating the UK's Research Landscape](https://www.flfdevnet.com/wp-content/uploads/2024/09/Navigating_UK_Research_Landscape-2024.pdf) — Future Leaders Fellows Development Network / UKRI toolkit on how to find funding and navigate the funding landscape
 - [Wellcome Trust — Funding](https://wellcome.org/grant-funding)
 - [Leverhulme Trust](https://www.leverhulme.ac.uk/)
 - [The Royal Society — Grants](https://royalsociety.org/grants-schemes-awards/)
