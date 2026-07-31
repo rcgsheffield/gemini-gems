@@ -19,3 +19,10 @@ No other files or folders belong directly under a Gem folder.
 - `.github/workflows/link-check.yml` runs `lychee` over all Markdown files to catch broken links, on push/PR to `main` and monthly on a schedule.
 
 All must pass before merging changes.
+
+## Verification
+
+Before considering a change to `gems/` complete, run:
+
+1. `python scripts/check_structure.py`
+2. `npx markdownlint-cli2 "**/*.md"`
