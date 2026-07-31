@@ -7,6 +7,14 @@ A version-controlled repository of custom **Google Gemini Gems** designed for th
 
 This repository serves as the single source of truth for our research group's custom AI assistants, prompt instructions, and reference knowledge bases.
 
+## Usage
+
+Please copy-and-paste the contents of this repository into the Gemini Gem.
+
+1. Go to [gemini.google.com](https://gemini.google.com/gems/view) and click on "Gems"
+2. Click ["New Gem"](https://gemini.google.com/gems/create)
+3. Name your Gem and copy-and-paste the instructions for it to follow. Feel free to modify the prompt to suit your specific workflow.
+
 ## Documentation
 
 - University of Sheffield [Google Gemini and Gemini Notebooks](https://students.sheffield.ac.uk/it-services/google/google-gemini-and-google-notebooklm)
@@ -39,4 +47,6 @@ The repository is organized by individual Gem workflows. Each folder contains th
 
 ## Support
 
-Please contact [Research & Innovation IT](https://students.sheffield.ac.uk/it-services/research).
+Training in [critical AI literacy](https://students.sheffield.ac.uk/it-services/google/google-gemini-and-google-notebookl) and [introducing AI into research](https://sites.google.com/sheffield.ac.uk/research-training/) are available for researchers and staff at the University of Sheffield.
+
+For other enquiries, please contact [Research & Innovation IT](https://students.sheffield.ac.uk/it-services/research).
