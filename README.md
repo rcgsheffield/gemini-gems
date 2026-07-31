@@ -47,6 +47,6 @@ The repository is organized by individual Gem workflows. Each folder contains th
 
 ## Support
 
-Training in [critical AI literacy](https://students.sheffield.ac.uk/it-services/google/google-gemini-and-google-notebookl) and [introducing AI into research](https://sites.google.com/sheffield.ac.uk/research-training/) are available for researchers and staff at the University of Sheffield.
+Training in [critical AI literacy](https://students.sheffield.ac.uk/it-services/google/google-gemini-and-google-notebook) and [introducing AI into research](https://sites.google.com/sheffield.ac.uk/research-training/) are available for researchers and staff at the University of Sheffield.
 
 For other enquiries, please contact [Research & Innovation IT](https://students.sheffield.ac.uk/it-services/research).
