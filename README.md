@@ -19,10 +19,6 @@ The repository is organized by individual Gem workflows. Each folder contains th
 ```text
 .
 ├── README.md
-├── shared-knowledge/               # Knowledge used across multiple Gems
-│   ├── citation-styles.json
-│   └── institutional-ethics-rules.md
-│
 └── gems/
     ├── literature-synthesizer/
     │   ├── README.md                 # Prompt instructions & metadata
