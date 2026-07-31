@@ -16,5 +16,6 @@ No other files or folders belong directly under a Gem folder.
 
 - `.github/workflows/markdown-lint.yml` lints all Markdown with markdownlint-cli2, configured via `.markdownlint.yaml` at the repo root.
 - `.github/workflows/structure-check.yml` runs `scripts/check_structure.py`, which verifies every folder under `gems/` has the required files and no unexpected entries.
+- `.github/workflows/link-check.yml` runs `lychee` over all Markdown files to catch broken links, on push/PR to `main` and monthly on a schedule.
 
-Both must pass before merging changes.
+All must pass before merging changes.
