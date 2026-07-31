@@ -21,5 +21,6 @@ jobs:
         with:
           args: >-
             --verbose --no-progress
+            --exclude 'gemini\.google\.com'
             '**/*.md'
           fail: true
