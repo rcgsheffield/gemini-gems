@@ -4,6 +4,10 @@
 
 Transforms dataset headers, synthetic snippets, and project summaries into FAIR-compliant documentation without requiring raw or sensitive research data. Safely generates a standardized Data Dictionary and repository-ready README file for open research repositories.
 
+## Instructions
+
+Please see the [instructions file](./instructions.md).
+
 ## Knowledge
 
 Suggested files to include in the Gem's context:
